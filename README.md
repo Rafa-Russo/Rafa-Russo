@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning Computer Science in Mackenzie;
 - 👯 I’m looking to collaborate on cybersecurity and data science projects;
 - 🤔 I’m looking for help with starting a career in cybersecurity;
-- 💬 Ask me about my thoughts on how to deal with user concerning their safety.
+- 💬 Ask me about my thoughts on how to deal with users concerning their safety.
 
 ##### Coding since 2022
