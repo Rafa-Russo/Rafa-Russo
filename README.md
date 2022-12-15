@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on getting a CompTIA Network+ certificate;
 - 🌱 I’m currently studying Computer Science in Mackenzie Presbiterian University;
-- 👯 I’m looking to collaborate on cybersecurity and data science projects;
-- 🤔 I’m looking for help with starting a career in cybersecurity;
-- 💬 Ask me about my thoughts on how to deal with users concerning their safety.
+- 👯 I’m looking to collaborate on data science and cybersecurity projects;
+- 🤔 I’m looking for help with starting a career in cybersecurity/data science (don't know which one to start!!);
 
 ##### Coding since 2022
