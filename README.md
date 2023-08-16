@@ -5,5 +5,3 @@
 
 - 🌱 I’m currently studying Computer Science at Mackenzie Presbyterian University;
 - 👯 I’m looking to collaborate on data science and hopefully, in the future, integrate with automobilism;
-
-##### Coding since 2022
