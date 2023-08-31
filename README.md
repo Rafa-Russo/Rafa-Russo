@@ -5,3 +5,4 @@
 
 - 🌱 I’m currently studying Computer Science at Mackenzie Presbyterian University;
 - 👯 I’m looking to collaborate on data science and hopefully, in the future, integrate with automobilism;
+- 🎯 Generally, the simplest solution is the better one. Don't overcomplicate things.
